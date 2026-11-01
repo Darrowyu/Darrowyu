@@ -17,4 +17,4 @@ packaging and retail operations.
 
 ### Elsewhere
 
-[darrowyu.com](https://darrowyu.com) · [darrowyu@126.com](mailto:darrowyu@126.com)
+[darrowyu.com](https://darrowyu.com) · [darrowyhx@gmail.com](mailto:darrowyhx@gmail.com)
