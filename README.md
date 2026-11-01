@@ -2,7 +2,7 @@
 
 # Hi, I'm Darrowyu 👋
 
-[![darrowyu.com](https://img.shields.io/badge/darrowyu.com-visit-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://darrowyu.com)
+<a href="https://darrowyu.com"><img src="assets/darrowyu.svg" alt="darrowyu.com" height="42"></a> <a href="https://makrite.com"><img src="assets/makrite.svg" alt="makrite.com" height="42"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1500&color=2F81F7&center=true&vCenter=true&width=640&lines=Full-stack+engineer+at+Makrite%2C+Inc.;Building+AI-assisted+tools+for+manufacturing+%26+retail" alt="Full-stack engineer at Makrite, Inc.">
 
