@@ -3,7 +3,9 @@
 Full-stack engineer at Makrite, Inc. I build AI-assisted tools for manufacturing,
 packaging and retail operations.
 
-**Stack:** TypeScript · React · Node.js · Tailwind CSS · Vercel · Gemini AI
+**Frontend:** TypeScript · React · Vite · Tailwind CSS · Zustand · Radix UI · Taro (WeChat Mini Program)
+**Backend:** Node.js · NestJS · Prisma · PostgreSQL · Socket.IO · JWT auth
+**Tooling:** Jest · Vitest · Vercel
 
 ### Selected work
 
@@ -11,7 +13,7 @@ packaging and retail operations.
 | --- | --- | --- |
 | [Orbit](https://github.com/Darrowyu/Orbit) | Kanban project and task collaboration with AI task breakdown and cross-device sync | [demo](https://orbitteams.vercel.app) |
 | [Syncflow](https://github.com/Darrowyu/Syncflow) | Production–sales coordination: inventory, orders, line scheduling and capacity, with an AI assistant | [demo](https://syncflow-tawny.vercel.app) |
-| [PackGenius AI](https://github.com/Darrowyu/PackGenius-AI) | Picks the optimal shipping box from existing inventory for a product's dimensions, with Gemini-powered material advice | [demo](https://pack-genius.vercel.app) |
+| [PackGenius AI](https://github.com/Darrowyu/PackGenius-AI) | Picks the optimal shipping box from existing inventory for a product's dimensions, with AI material recommendations | [demo](https://pack-genius.vercel.app) |
 | [N95 FitGuard AI](https://github.com/Darrowyu/N95-FitGuard-AI) | Face-geometry analysis that recommends the best-fitting N95 respirator | [demo](https://n95-fit-guard-ai.vercel.app) |
 | [Jewelry Inventory Pro](https://github.com/Darrowyu/jewelry-inventory-pro) | Jewelry inventory manager for WeChat Mini Program and web | [demo](https://jewelry-inventory-pro-yvomma.vercel.app) |
 
