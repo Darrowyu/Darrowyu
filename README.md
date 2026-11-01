@@ -3,9 +3,7 @@
 Full-stack engineer at Makrite, Inc. I build AI-assisted tools for manufacturing,
 packaging and retail operations.
 
-**Frontend:** TypeScript · React · Vite · Tailwind CSS · Zustand · Radix UI · Taro (WeChat Mini Program)
-**Backend:** Node.js · NestJS · Prisma · PostgreSQL · Socket.IO · JWT auth
-**Tooling:** Jest · Vitest · Vercel
+**Stack:** TypeScript · Python · React · Node.js · NestJS · PostgreSQL
 
 ### Selected work
 
